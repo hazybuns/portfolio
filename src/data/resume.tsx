@@ -4,7 +4,7 @@ import { DownloadIcon, HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Venz Jan Cabonegro",
   initials: "VJC",
-  url: "https://dillion.io",
+  url: "https://portfolio-venzjc.vercel.app/",
   location: "Cagayan de Oro, PH",
   locationLink: "https://www.google.com/maps/place/cagayandeoro",
   description:
