@@ -28,7 +28,7 @@ export const DATA = {
     { href: "/", icon: HomeIcon, label: "Home" },
     // { href: "/blog", icon: NotebookIcon, label: "Blog" },
     {
-      href: "/cv.pdf",
+      href: "/cv1.pdf",
       icon: DownloadIcon,
       label: "Download CV",
       download: true
