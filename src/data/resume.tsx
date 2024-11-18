@@ -86,7 +86,7 @@ export const DATA = {
       start: "Sep 2024",
       end: "Sep 2024",
       description:
-        "Employability skills are core 21st-century skills that are needed in every job. These are the soft skills that employers look for while recruiting. The Employability Skills - Job Ready course will help you acquire these skills, and help you towards getting your dream job and building a successful career.",
+        "",
     },
     {
       company: "Udemy, Inc.",
@@ -98,7 +98,7 @@ export const DATA = {
       start: "Sep 2024",
       end: "Nov 2023",
       description:
-        "Hacking is the art of being one step ahead of the enemy by learning how he thinks and how his systems work. Hackers believe that they can beat the system. The hacker follows a strict methodology in order not to forget anything important.",
+        "",
     },
     {
       company: "TESDA - Gabriel Taborin College of Davao Foundation, Inc.",
