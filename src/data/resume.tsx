@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "An Information Technology student graduating soon. I love building things and helping people, and I’m very active on Twitter.",
   summary:
-    "I’m Venz Jan A. Cabonegro, a final-year Information Technology student with a strong foundation in software development, particularly skilled in React, SQL, and version control with Git and GitHub. My expertise extends across a broad range of technologies, including React, Next.js, TypeScript, JavaScript, Node.js, Flutter, Python, PHP, Java, and C++. Passionate about continuous learning and staying abreast of the latest advancements, I’m always eager to explore new technologies and collaborate on innovative projects. Feel free to check out my work and connect if you have any questions or opportunities for collaboration.",
+    "I’m Venz Jan A. Cabonegro, a 4th year Information Technology student with a strong foundation in software development, particularly skilled in React, SQL, and version control with Git and GitHub. My expertise extends across a broad range of technologies, including React, Next.js, TypeScript, JavaScript, Node.js, Flutter, Python, PHP, Java, and C++. Passionate about continuous learning and staying abreast of the latest advancements, I’m always eager to explore new technologies and collaborate on innovative projects. Feel free to check out my work and connect if you have any questions or opportunities for collaboration.",
   avatarUrl: "/venz2.jpg",
   skills: [
     "React",
@@ -26,11 +26,11 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    // { href: "/blog", icon: NotebookIcon, label: "Blog" },
     {
       href: "/cv.pdf",
       icon: DownloadIcon,
-      label: "Download CV",
+      label: "Download My CV",
       download: true
     },
   ],
@@ -86,7 +86,7 @@ export const DATA = {
       start: "Sep 2024",
       end: "Sep 2024",
       description:
-        "",
+        "...",
     },
     {
       company: "Udemy, Inc.",
@@ -98,7 +98,7 @@ export const DATA = {
       start: "Sep 2024",
       end: "Nov 2023",
       description:
-        "",
+        "...",
     },
     {
       company: "TESDA - Gabriel Taborin College of Davao Foundation, Inc.",
